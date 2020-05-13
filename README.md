@@ -1,8 +1,7 @@
 # Amazon-fashion-discovery-engine-Content-Based-recommendation-
 Amazon-fashion-discovery-engine-Content-Based-recommendation-
 =========================
-![Amazon Fashion](/images/amazon-fashion.gif)
-
+<img width=100% src="https://github.com/Raman-Raje/Amazon-fashion-discovery-engine-Content-Based-recommendation-/blob/master/images/amazon-fashion.gif">
 ## Objective: 
 To recommend similar apparel to customers...
 
